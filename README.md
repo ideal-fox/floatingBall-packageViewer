@@ -1,1 +1,1 @@
-# floatingBall-pakageViewer
+# floatingBall-packageViewer
