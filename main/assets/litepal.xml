@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<litepal>
+    <dbname value="AppStore" ></dbname>
+    <version value="2"></version>
+    <list>
+        <mapping class="com.example.packageviewer.Utils.App"></mapping>
+        <mapping class="com.example.packageviewer.Utils.AppShow" />
+    </list>
+</litepal>
